@@ -26,7 +26,7 @@
 
 ## Habilidades: (ESTUDANDO)
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github,python&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github,python,c,vscode&theme=dark)
 
 ## Github Stats
 
