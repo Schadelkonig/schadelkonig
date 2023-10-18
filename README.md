@@ -24,7 +24,7 @@
 
 ## 🏃🏽‍♂️ Acompanhe minha evolução na [DIO.ME](https://www.dio.me/users/wl_williamlenon).
 
-## Habilidades: (ESTUDANDO)
+## Habilidades:
 
 ![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github,python,c,vscode&theme=dark)
 
